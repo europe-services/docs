@@ -1,31 +1,34 @@
 ---
+description: >-
+  Auf dieser Seite wollen wir unseren Kunden die Produkte näher bringen und
+  erklären, wie diese verwendet werden. Die häufig gestellten Fragen von unseren
+  Kunden sind hier auch zu finden.
 cover: >-
   https://images.unsplash.com/photo-1528605248644-14dd04022da1?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8dGVhbSUyMG9mJTIwcGVvcGxlfGVufDB8fHx8MTY2MDMxNzQzNg&ixlib=rb-1.2.1&q=80
 coverY: 0
 ---
 
-# 👋 Welcome!
+# 👋 Willkommen auf der Europe-Services Wiki & FAQ.
 
-{% hint style="info" %}
-**About this template:** An Internal Wiki to lay out everything anyone needs to know about the company, help others get to know your team, product or company better..
-{% endhint %}
+#### Wie navigierst du durch die FAQ-Seite?
 
-For **new team members**, this space will be helpful during your first days with the team, to better learn about who we are and how we work.
+* **Suchfunktion nutzen:** Gib Schlüsselwörter in die Suchleiste ein, die dein Anliegen am besten beschreiben, um schnell relevante Antworten zu finden.
+* **Kategorien durchsuchen:** Unsere FAQs sind in verschiedene Kategorien unterteilt. Wähle die Kategorie, die am ehesten zu deiner Frage passt.
+* **Beliebte Fragen:** Schau dir die Liste der häufig gestellten Fragen an. Die Chancen stehen gut, dass du dort eine Antwort auf deine Frage findest.
 
-For **long-time team members**, this space will act as a reminder and allow you to find answers about admin and policies etc.
+#### Deine Frage ist nicht dabei?
 
-<details>
-
-<summary>How to use it?</summary>
-
-This space is designed to be read linearly, so start with our Vision, Mission & Focus and work down from there! We recommend reading everything through in one sitting and then revisiting and re-reading if you need to.
-
-</details>
+Solltest du die Antwort auf deine Frage nicht finden können, hilft dir unser Kundenservice gerne weiter. Kontaktiere uns über das Kontaktformular auf unserer Webseite oder schicke uns eine E-Mail. Wir bemühen uns, alle Anfragen so schnell wie möglich zu beantworten.
 
 <details>
 
-<summary>Contributing</summary>
+<summary>Mitarbeit an der Knowledge Base</summary>
 
-If you want to contribute changes, start a new change request and submit it for review. The People team will review it soon after.
+Wir wollen die Knowledge Base mit eurer Hilfe immer mehr erweitern.
+
+Jeder Kunde kann das Projekt in GitHub Forken und daran mithelfen. Jede angenommene Erweiterung entlohnen wir mit 5€ Guthaben.
+
+Das Projekt kann hier geforkt werden:\
+[https://github.com/europe-services/docs/tree/docs](https://github.com/europe-services/docs/tree/docs)
 
 </details>
