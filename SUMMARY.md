@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Willkommen auf der Europe-Services Wiki & FAQ.](README.md)
+* [Willkommen](README.md)
 
 ## About us
 
