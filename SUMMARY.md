@@ -4,10 +4,10 @@
 
 ## About us
 
-* [🚀 Vision, Mission & Fokus](about-us/vision-mission-and-fokus/README.md)
-  * [Vision](about-us/vision-mission-and-fokus/vision.md)
-  * [Mission](about-us/vision-mission-and-fokus/mission.md)
-  * [Fokus](about-us/vision-mission-and-fokus/fokus.md)
+* [🚀 Vision, Mission & Fokus](about-us/vision-mission-and-focus/README.md)
+  * [Vision](about-us/vision-mission-and-focus/vision.md)
+  * [Mission](about-us/vision-mission-and-focus/mission.md)
+  * [Fokus](about-us/vision-mission-and-focus/focus.md)
 * [💖 Values](about-us/values.md)
 
 ## Team
