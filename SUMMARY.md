@@ -9,16 +9,8 @@
   * [Mission](about-us/vision-mission-and-focus/mission.md)
   * [Fokus](about-us/vision-mission-and-focus/focus.md)
 * [💖 Unsere Werte](about-us/values.md)
+* [👋 Meet the Team!](about-us/meet-the-team.md)
 
-## Team
+## Knowledge-Base
 
-* [👋 Meet the Team!](team/meet-the-team.md)
-
-## Collaborating
-
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
-* [📅 Meetings](collaborating/meetings.md)
-
-## Policies
-
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
+* [Soon](knowledge-base/soon.md)
