@@ -18,7 +18,7 @@ Unsere Firma legt größten Wert auf Sorgfalt, sei es in der Bereitstellung von 
 
 <details>
 
-<summary>💪 Accountability</summary>
+<summary>💪 Wirtschaftlichkeit</summary>
 
 Teile mit uns ein Beispiel für kostengünstigeres Hosting (ohne die Domain), und wir belohnen dich mit einem 5€ Gutschein für all unsere Produkte außer Domains!
 
